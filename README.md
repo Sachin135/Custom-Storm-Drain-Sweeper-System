@@ -5,7 +5,7 @@ An Arduino project that is designed to clear storm drain blockages and prevent s
 Streets are turned into flooded rivers. Cars and pedestrians are unable to cross streets. Emergency response times are impeded. The culprit? Clogged storm drains.
 
 
-	Storm drains in my community are often blocked by twigs, snow, pebbles, grass clippings, trash, and, prominently leaves. This problem is especially
+	Storm drains in my community are often blocked by twigs, snow, pebbles, grass clippings, trash, and, most prominently, leaves. This problem is especially
  prevalent during the fall months, as trees shed their leaves, blocking the openings of the storm drains. There is a lack of preventative measures to address storm
  drain blockages and the reduction of drainage efficiency that these blockages cause.
 
