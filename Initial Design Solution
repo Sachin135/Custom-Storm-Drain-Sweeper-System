@@ -1,0 +1,17 @@
+Product Concept- Automated Diverter
+
+Product Description-  Employs programming so that the stakeholders/users can divert water and clear certain routes. The diverter itself would be composed of the same plastic found in PVC pipes, 
+polyvinyl chloride. PVC is known to withstand cold temperatures, though it does break down at 140 degrees F (however the water that will be on the roads will not be reaching that temperature so that 
+is not a concern). The sensor would contain some strong metal like steel, and the pipe would not require many different materials. PVC is also relatively cheaper than other materials since it is 
+produced on a mass scale, which fulfills our design requirement about both safety and cost.
+
+Operation- This would involve automated movement, so specific openings of the diverter remain closed while liquid flows into the next diverter in the family. Water enters and is strained before falling 
+out, and can either go through the first opening or fall into the next diverter or collection barrel/body of water. The sensor would be programmed with an closed-loop control system 
+(also known as a feedback system) as it acts on the  basis of input AND output.
+
+Justification- Though this idea is external to the drains themselves, they would prevent flooding by redirecting water carrying debris, preventing the debris from reaching and getting stuck or 
+collecting in the drains. This would  fulfill many of our major design requirements (about 8/9) because the material is cheap but strong, so the product will last long and solve our problem. 
+One potential drawback is requirement #5, which says the solution must be occurring within seconds. However, many of the benefits outweigh this, especially since it is lightweight and easy to install.
+
+
+
