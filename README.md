@@ -1,5 +1,5 @@
 # Custom-Storm-Drain-Sweeper-System
-An Arduino project that is designed to clear storm drain blockages and prevent street flooding from occurring.
+This is an Arduino project that is designed to clear storm drain blockages and prevent street flooding from occurring.
 
 
 Streets are turned into flooded rivers. Cars and pedestrians are unable to cross streets. Emergency response times are impeded. The culprit? Clogged storm drains.
